@@ -7,4 +7,8 @@ public class NewTest99 {
   public void f() {
 	  System.out.println("Welcome  to DevOps");
   }
+	@Test
+  public void f() {
+	  System.out.println("Welcome  to DevOps");
+  }
 }
